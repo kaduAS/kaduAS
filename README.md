@@ -8,16 +8,3 @@
   </a>
 </p>
 
-<!-- Tagline -->
-<p align="center">
-  <strong><code>Always Building (learning by doing, one project at a time)</code></strong>
-</p>
-
-<!-- About Me -->
-<br>
-
-I'm a front-end developer focused on building responsive, well-structured interfaces.  
-I'm also studying back-end to strengthen my understanding of how everything works together.  
-I manage my projects using version control to stay organized and track my progress.
-
-<br>
