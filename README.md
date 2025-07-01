@@ -8,28 +8,33 @@
   </a>
 </p>
 
-<!-- Seção com dois retângulos lado a lado -->
-
+<!-- Espaço entre o título e os blocos -->
 <br><br>
 
+<!-- Dois retângulos lado a lado -->
 <div align="center">
   <table>
     <tr>
       <!-- Card 1 -->
       <td width="45%" style="background-color:#1e202c; border-radius:12px; padding:20px; color:#f2f2f2; vertical-align:top;">
-        <h3 align="center" style="color:#b92e34;">Box 1 Title</h3>
+        <h3 align="center" style="color:#b92e34;">Currently Learning</h3>
         <p align="center">
-          You can write anything here — a short description, a quote, your goals, or current focus.
+          HTML, CSS, JavaScript<br>
+          Exploring back-end tools<br>
+          Focused on building real projects
         </p>
       </td>
 
-      <td width="5%"></td> <!-- Espaço entre os dois cards -->
+      <!-- Espaço entre os dois cards -->
+      <td width="5%"></td>
 
       <!-- Card 2 -->
       <td width="45%" style="background-color:#1e202c; border-radius:12px; padding:20px; color:#f2f2f2; vertical-align:top;">
-        <h3 align="center" style="color:#b92e34;">Box 2 Title</h3>
+        <h3 align="center" style="color:#b92e34;">My Mindset</h3>
         <p align="center">
-          Another section for anything else — your mindset, tech journey, or motivational text.
+          Learning by doing<br>
+          One project at a time<br>
+          Growth through consistency
         </p>
       </td>
     </tr>
