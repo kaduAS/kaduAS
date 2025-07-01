@@ -9,8 +9,7 @@
 </p>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api username=kaduAS&show_icons=true&count_private=true&hide_border=true&title_color=1e202c&icon_color=1e202c&text_color=1e202c&bg_color=1e202c" alt="kaduAS github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaduAS&layout=compact&hide_border=true&title_color=1e202c&text_color=1e202c&bg_color=1e202c" />
+  <<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaduAS&layout=compact&hide_border=true&title_color=1e202c&text_color=1e202c&bg_color=0d1117" />
 </div>
 
 
